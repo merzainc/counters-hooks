@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-size: 16px;
+  font-family: 'SF Pro Display', 'Inter', sans-serif;
+  line-height: 1.5;
+  font-weight: 600;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
