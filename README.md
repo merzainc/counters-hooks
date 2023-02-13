@@ -1,4 +1,4 @@
-## Counters App - (Using Hooks Only)
+## Counters App - (using hooks)
 
 Self-challenge to rebuild [counters app](https://github.com/merzainc/counters) only using React hooks and functional components.
 
@@ -27,7 +27,7 @@ This will launch the vite server on port 5713. If that port is busy, you can set
 
 ### [Preview App](https://merzainc.github.io/counters-hooks)
 
-[![react-counters-app](https://github.com/merzainc/counters-hooks/blob/main/preview.png "Counters App Demo")](https://github.com/merzainc/counters-hooks)
+[![react-counters-app](https://github.com/merzainc/counters-hooks/blob/main/preview.png "Counters App Demo")](https://merzainc.github.io/counters-hooks)
 
 
 > :bulb: **Tip:** Hooks are the future of React as it stands, learn them while you still have chance.
